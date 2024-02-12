@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T12:03:40.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4k2JP8lRRw8sbjWExPGT" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T12:05:39.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="t54iXjItms2fQkbUl0ZC" version="23.1.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2578" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="7d933b09d9755ecc-15" value="曾祖" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="101" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mrYq8TOZVtPHyVSn8t1D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mrYq8TOZVtPHyVSn8t1D-1" target="mrYq8TOZVtPHyVSn8t1D-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mrYq8TOZVtPHyVSn8t1D-1" value="我爷爷" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="640" y="140" width="101" height="70" as="geometry" />
@@ -254,6 +251,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1290" y="250" as="sourcePoint" />
             <mxPoint x="1340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mrYq8TOZVtPHyVSn8t1D-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mrYq8TOZVtPHyVSn8t1D-1" target="mrYq8TOZVtPHyVSn8t1D-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="30" as="sourcePoint" />
+            <mxPoint x="1340" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
